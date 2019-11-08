@@ -1,7 +1,11 @@
 # MachineLearningStats
 Machine Learning &amp; Statistics Module Sept 2019
 
-Instructions:
+
+See Jupyter Notebook at BostonHousePricesAnalysis.ipynb
+
+
+Project Instructions:
 This assessment concerns the well-known Boston House Prices [1] dataset and the Python [3] packages 
 scipy [2], keras [7], and jupyter [6]. The project is worth 100% of your marks for this module, but 
 it is broken into three parts, as follows.
