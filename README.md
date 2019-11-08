@@ -2,7 +2,7 @@
 Machine Learning &amp; Statistics Module Sept 2019
 
 
-See Jupyter Notebook at BostonHousePricesAnalysis.ipynb
+See Jupyter Notebook at **BostonHousePricesAnalysis.ipynb** in the folder Boston Assignment
 
 
 Project Instructions:
