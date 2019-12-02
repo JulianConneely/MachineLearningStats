@@ -5,14 +5,14 @@ Machine Learning &amp; Statistics Module Sept 2019
 See Jupyter Notebook at **BostonHousePricesAnalysis.ipynb** in the folder Boston Assignment
 
 This project requires Python 3.7 awith the following Python libraries installed:
-NumPy
-Pandas
-matplotlib
-seaborn
-scipy
-sklearn
-statsmodel
-tensorflow
+NumPy,
+Pandas,
+matplotlib,
+seaborn,
+scipy,
+sklearn,
+statsmodel,
+tensorflow and 
 keras
 
 
