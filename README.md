@@ -2,7 +2,8 @@
 Machine Learning &amp; Statistics Module Sept 2019
 
 
-See Jupyter Notebook at **BostonHousePricesAnalysis.ipynb** in the folder Boston Assignment
+See Jupyter Notebook at **BostonHousePricesAnalysis.ipynb** in the folder Boston Assignment, or
+here: https://nbviewer.jupyter.org/github/JulianConneely/MachineLearningStats/blob/master/BostonAssignment/BostonHousePricesAnalysis.ipynb
 
 This project requires Python 3.7 awith the following Python libraries installed:
 NumPy,
